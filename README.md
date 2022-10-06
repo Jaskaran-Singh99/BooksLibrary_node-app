@@ -26,7 +26,7 @@ Start the server
   nodemon index.js
 ```
 
-Go to http://localhost:4000/ on your device.
+Go to http://localhost:3000/api/v1 on your device.
 (Use Postman or thunderclient to post or delete the data)
 
 
