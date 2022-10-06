@@ -23,7 +23,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  nodemon index.js
 ```
 
 Go to http://localhost:4000/ on your device.
